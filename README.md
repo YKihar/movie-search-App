@@ -50,4 +50,4 @@ Yousef Kaihar
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).  *(If you have a LICENSE file, link to it here)*
+This project is licensed under the [MIT License](LICENSE). 
